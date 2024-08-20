@@ -1,0 +1,11 @@
+En este archivo se encuentra resumen de los comandos finales a mostrar practica 1
+
+type vagrantfile - ver vagrantfile
+
+vim
+sudo apt-get install net-tools
+
+jupyter notebook --ip=0.0.0.0
+
+Acceso a Github desde token ssh
+
